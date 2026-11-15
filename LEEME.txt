@@ -1,35 +1,23 @@
-PORTAFOLIO DIGITAL DE SUSY MAMANI HUAYPAR
-========================================
+PORTAFOLIO DIGITAL COMPLETO – SUSY MAMANI HUAYPAR
 
-DATOS ACADÉMICOS
-Estudiante: SUSY MAMANI HUAYPAR
-Asignatura: Gestión de la Información y del Aprendizaje
-NRC: 39004
-Docente: JOSE HAMAN FUENTES OCAMPO
-
-ESTRUCTURA DEL SITIO
+CONTENIDO:
 - index.html: Definición del Proyecto
 - busqueda.html: Búsqueda y Selección de Información
 - desarrollo.html: Desarrollo del Contenido
 - ia.html: Uso de Inteligencia Artificial
-- estilos.css: diseño visual común
+- estilos.css: Diseño adaptable
+- assets/: ilustraciones SVG originales incluidas en las páginas
 
-CÓMO VERLO
-1. Extrae todos los archivos en una misma carpeta.
-2. Abre index.html con Chrome, Edge o Firefox.
-3. Usa el menú superior para navegar entre las cuatro páginas.
+PARA PUBLICAR EN EL REPOSITORIO EXISTENTE:
+1. Descomprime este ZIP.
+2. En GitHub abre el repositorio PORTAFOLIO-DE-SUSY.
+3. Sube y reemplaza index.html, busqueda.html, desarrollo.html, ia.html y estilos.css.
+4. Sube también la carpeta assets completa con sus cinco archivos SVG.
+5. Confirma los cambios.
+6. GitHub Pages actualizará el mismo enlace publicado.
 
-CÓMO EDITARLO
-Abre los archivos .html y estilos.css con Visual Studio Code, Bloc de notas u otro editor.
-Puedes cambiar textos, colores, imágenes, enlaces y referencias.
-
-ANTES DE ENTREGAR
-- Añade imágenes, infografías y videos concretos con sus créditos/licencias.
-- Completa referencias bibliográficas de los artículos o libros que realmente consultes.
-- Comprueba que los enlaces funcionen.
-- Revisa si tu docente solicita publicar en una plataforma específica.
-
-PUBLICACIÓN
-Este ZIP contiene el sitio completo y editable, pero no crea por sí solo una dirección pública.
-Para obtener un enlace público hay que alojarlo en una plataforma como GitHub Pages o un servicio
-de alojamiento web. Google Sites no aloja directamente un ZIP de páginas HTML como sitio publicado.
+IMPORTANTE:
+- No cambies los nombres de archivos.
+- Debe conservarse la carpeta assets al mismo nivel que los archivos HTML.
+- Las ilustraciones son esquemas educativos originales, no fotografías clínicas reales.
+- Revisa las normas de citación de tu asignatura y complementa con el texto de Patología General utilizado en clase.
